@@ -4,3 +4,4 @@ bill=item1+item2+item3
 print bill
 add discount 20%
 print discount
+add loyalty coupons tocustomers
