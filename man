@@ -2,3 +2,5 @@ read item,
 enter three items
 bill=item1+item2+item3
 print bill
+add discount 20%
+print discount
